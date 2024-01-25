@@ -9,7 +9,7 @@ export default function Message() {
           <Link href="/">Home</Link>
         </li>
         <li>
-          <Link href="/info/info">Info Us</Link>
+          <Link href="/info/info">Info Page</Link>
         </li>
       </ul>
     </div>
